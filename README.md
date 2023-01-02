@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuel-mulzer
-- 👀 I’m interested in coding, science, nature, health, guitar.
-- 🌱 I’m currently learning python and comforting with git and the command line.
+- 👀 I’m interested in coding, nature, fitness, music and spending time together.
+- 🌱 I’m currently learning AI and playing the piano.
 - 📫 How to reach me: samuel.mulzer@icloud.com
 
 <!---
